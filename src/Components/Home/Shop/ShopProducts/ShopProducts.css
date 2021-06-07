@@ -1,0 +1,26 @@
+.ShopProducts-container {
+  padding: 20px;
+  margin: 20px 0px;
+  background-color: #292929;
+  border-radius: 10px;
+}
+.ShopProducts-detls {
+  padding: 10px 20px;
+}
+.addToCart-btn {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+.addToCart-btn button {
+  background-color: #1515152e;
+  border: 1px solid white;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 8px 30px;
+}
+.addToCart-btn button:hover {
+  background-color: #fff;
+  color: black;
+  border: 1px solid black;
+}

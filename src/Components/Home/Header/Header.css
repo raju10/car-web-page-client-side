@@ -1,0 +1,32 @@
+/* .design {
+  background-color: rgb(61, 72, 83, 0.7);
+  color: white;
+} */
+.img1 {
+  background-image: url(../../../images/genesis-kr-main-key-visual-G70-SB-desktop-2560x900.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.img2 {
+  background-image: url(../../../images/genesis-kr-design-the-new-g70-main-hero-desktop-2560x900-ko.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.img3 {
+  background-image: url(../../../images/genesis-ww-main-key-visual-gv80-02-desktop-2560x900-en.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.img4 {
+  background-image: url(../../../images/genesis-ww-main-key-visual-g80-01-desktop-2560x900-en.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
